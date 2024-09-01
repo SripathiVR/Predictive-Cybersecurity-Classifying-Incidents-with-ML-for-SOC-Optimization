@@ -77,4 +77,5 @@ The Microsoft Cybersecurity Incident Classification project aims to enhance the 
     - **Handling Class Imbalance:** Explore advanced techniques like cost-sensitive learning.
     - **Real-World Deployment:** Consider computational requirements and real-time data processing.
 
-
+## Model File 
+    https://drive.google.com/file/d/1oaw9Xy9IWzRfsrOQjYXCmSNJ02B4qJlF/view?usp=sharing
